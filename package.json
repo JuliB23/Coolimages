@@ -1,0 +1,23 @@
+{
+  "name": "coolimages",
+  "version": "1.0.0",
+  "description": "ejercicio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Coolimages"
+  },
+  "author": "Dani Juli",
+  "license": "MIT",
+  "dependencies": {
+    "cool-images": "^1.0.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.27.0",
+    "nodemon": "^2.0.4"
+  }
+}
